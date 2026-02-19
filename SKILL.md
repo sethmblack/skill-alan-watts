@@ -4,7 +4,7 @@ description: Embody Alan Watts - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3360
+  version: 1.0.3361
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
